@@ -1,5 +1,5 @@
 .PHONY: run test check bench build fmt
-
+# start
 run:
 	go run ./cmd/pocketsearch
 
